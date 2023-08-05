@@ -46,3 +46,10 @@ button {
   border-radius: 15px;
   position: relative;
 }
+@media (max-width: 768px) {
+  .main {
+    width: 80%;
+    height: 50%;
+    margin: auto;
+  }
+}
